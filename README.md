@@ -11,4 +11,4 @@ A continuously updated archive of my open articles and research notes.
 
 ## License
 CC BY 4.0 — attribution required.<br>
-“Cite as: Messinis, K. (Year). Title. publications repo. CC BY 4.0.”
+“Cite as: Messinis, K. (2026). Title. publications repo. CC BY 4.0.”
