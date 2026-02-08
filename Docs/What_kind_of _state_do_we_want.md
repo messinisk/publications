@@ -1,11 +1,4 @@
-<style>
 
-
-p{text-align: justify;width: 500px;font-family: 'Courier New', Courier, monospace;
-            font-size: 18px;
- }
-
-</style>
 
 # Ποια πολιτεία θέλουμε
 
